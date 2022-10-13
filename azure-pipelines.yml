@@ -18,6 +18,4 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-Settings
-- task: WhiteSource Bolt@20
-  inputs:
+
